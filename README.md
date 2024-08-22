@@ -9,6 +9,7 @@ These addon's license is ARR-UOES: https://theboninwebsite.wixsite.com/main/lice
 Mod links:
 
 Thingamajigs 2 Goodies:
+Adds back balloons, the converter, a spring, and more. Even new items like the scythe!
 
 https://modrinth.com/mod/thingamajigs-2-goodies
 
@@ -16,8 +17,13 @@ https://www.curseforge.com/minecraft/mc-mods/thingamajigs-2-goodies
 
 
 Thingamajigs 2 Railroadways:
-Not Out Yet - Adds back railroad crossing/railroad/railway content and other countries stuff.
+Adds back railroad crossing/railroad/railway content and other stuff, all highly customizable blocks as well.
+
+https://www.curseforge.com/minecraft/mc-mods/thingamajigs-2-railroadways
+
 
 Thingamajigs 2 Long Roads:
 Not Out Yet - Adds back signs and asphalt-related blocks and items.
 
+
+A showcase of some of the addons is here: https://www.youtube.com/watch?v=HUKdemEwnnM
