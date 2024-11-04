@@ -23,7 +23,7 @@ https://www.curseforge.com/minecraft/mc-mods/thingamajigs-2-railroadways
 
 
 Thingamajigs 2 Long Roads:
-Not Out Yet - Adds back signs and asphalt-related blocks and items.
+Not Out Yet - Adds back asphalt-related blocks and items, including paint brushes.
 
 
 A showcase of some of the addons is here: https://www.youtube.com/watch?v=HUKdemEwnnM
