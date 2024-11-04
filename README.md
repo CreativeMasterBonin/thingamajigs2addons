@@ -4,7 +4,7 @@ This is the github page for addons for Thingamajigs 2
 
 These are NeoForge exclusive addons, as they were not needed in the original mod, as it already had most of the content included with these addons.
 
-These mods are also pretty 'niche' as they say (not many have interests in this sort of content). So if you like this mod, please tell the author that, it helps the mod update faster.
+These mods are also pretty 'niche' as they say (not many have interests in this sort of content). So if you like this mod, please tell the author that, it helps the mod update faster, unless we're dead, which at that point, uh... hire a robot?
 
 
 These addon's license is ARR-UOES: https://theboninwebsite.wixsite.com/main/license-arr-uoes
