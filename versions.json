@@ -1,0 +1,11 @@
+{
+  "homepage":"",
+  "1.21.0":{
+    "0.0.1": "Initial release with all features from Thingamajigs 1 road features list.",
+    "0.0.2": "Updates road markings with 6 new patterns for all 3 brush types."
+  },
+  "promos":{
+    "1.21.0-latest":"0.0.2"
+    "1.21.1-latest":"0.0.2"
+  }
+}
