@@ -40,3 +40,7 @@ https://www.curseforge.com/minecraft/mc-mods/thingamajigs-2-long-roads
 
 
 A showcase of some of the addons is here: https://www.youtube.com/watch?v=HUKdemEwnnM
+
+
+
+NOT AN OFFICIAL MINECRAFT PRODUCT. NOT ASSOCIATED WITH MOJANG OR MICROSOFT.
