@@ -8,6 +8,10 @@ These mods are also pretty 'niche' as they say (not many have interests in this 
 
 
 These addon's license is ARR-UOES: https://theboninwebsite.wixsite.com/main/license-arr-uoes
+You can use these addons in maps, challenges, videos with commentary or no commentary (as long it complies with the MC M.U.G. and E.U.L.A).
+We have a discussions page so that users can directly talk about the 3 addons here. Categories are organized and have a welcome post. Feel free to suggest new features there.
+https://github.com/roberttkahelin8/thingamajigs2addons/discussions
+
 
 Mod links:
 
