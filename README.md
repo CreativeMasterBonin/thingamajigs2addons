@@ -7,7 +7,9 @@ These are NeoForge exclusive addons, as they were not needed in the original mod
 These mods are also pretty 'niche' as they say (not many have interests in this sort of content). So if you like this mod, please tell the author that, it helps the mod update faster, unless we're dead, which at that point, uh... hire a robot?
 
 
-These addon's license is ARR-UOES: https://theboninwebsite.wixsite.com/main/license-arr-uoes
+Previous license: https://theboninwebsite.wixsite.com/main/license-arr-uoes
+The new license for these addons is under LICENSE.txt
+
 You can use these addons in maps, challenges, videos with commentary or no commentary (as long it complies with the MC M.U.G. and E.U.L.A).
 
 
